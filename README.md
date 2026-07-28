@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Arnav Mathur 👋</h1>
 
-<h3 align="center">AI & Data Science Intern @ AU-Ignite | B.Tech CS (Data Science & AI), Poornima University</h3>
+<h3 align="center">AI & Data Science Intern @ AU-Ignite | B.Tech CS , Poornima University</h3>
 
 <p align="center">
 🤖 Building backend systems and ML-integrated platforms &nbsp;|&nbsp; 🎓 Final Year CS Student &nbsp;|&nbsp; 📍 Jaipur, Rajasthan
